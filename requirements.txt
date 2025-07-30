@@ -1,0 +1,15 @@
+langgraph
+langchain
+langsmith
+python-dotenv
+langchain_groq
+langchain_tavily
+langchain_core
+ipython
+pip
+
+## for MCP implementation
+
+mcp
+langchain-mcp-adapters
+langgraph
